@@ -7,3 +7,5 @@ Ini perubahan dari remote repo github
 tambah deskripsi dari remote
 
 ini saya buat di local
+
+ini tambahan dari fitur 1, ternyata segini aja
