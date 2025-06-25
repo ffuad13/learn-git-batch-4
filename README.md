@@ -12,3 +12,22 @@ ini saya buat di local
 ini tambahan dari fitur 1, ternyata segini aja
 
 ini fitur dari faiz ke 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fitur dari fathy ke 3 - belajar pull request
