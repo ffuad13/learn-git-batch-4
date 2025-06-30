@@ -25,5 +25,6 @@ test fork: wahyu
 
 ini fitur dari dewi
 
-ini fitur tambahan dari repository Danni rachman
+fitur dari fathy ke 3 - belajar pull request
 
+ini fitur tambahan dari repository Danni rachman
